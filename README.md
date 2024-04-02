@@ -7,60 +7,40 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+# Pagina_de_Eventos_HDCEvents
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## Sobre o projeto
+- O Sistema HDCEvents se trata de um Sistema no qual uma pessoa pode cadastrar um usuário e fazer login, onde possui o direito de cadastrar um evento e também de registrar sua participação em um determinado evento.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## Tecnologias Utilizadas
+- HTML, CSS, JavaScript, Bootstrap, PHP, Laravel e MySQL.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## Imagens
+- Painel de Cadastro
 
-## Learning Laravel
+![cap_evento5](https://github.com/Gustavo12386/Pagina_de_Eventos_Laravel/assets/81700849/abed2119-1d67-4046-9327-472ae6d2a011)
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+- Painel de Login
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+![cap_evento4](https://github.com/Gustavo12386/Pagina_de_Eventos_Laravel/assets/81700849/46068244-9946-4a33-8f45-d549cd08bf2c)
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+- Página Inicial
 
-## Laravel Sponsors
+![cap_evento](https://github.com/Gustavo12386/Pagina_de_Eventos_Laravel/assets/81700849/04c630ec-6e23-48d9-b12b-d8e8fd2bc8f8)
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+- Formulário de Cadastro de Evento
 
-### Premium Partners
+![cap_evento3](https://github.com/Gustavo12386/Pagina_de_Eventos_Laravel/assets/81700849/c3698868-11f0-4197-b0c5-b41b0e3b0b10)
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+- Página de Visualização de Evento e de Confirmação de Participação
 
-## Contributing
+![cap_evento2](https://github.com/Gustavo12386/Pagina_de_Eventos_Laravel/assets/81700849/2206b6a3-489c-483c-b229-79c2fc927a2c)
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+## Comandos para a Instalação do Laravel
+#### comando para realizar a instalação
+- composer create-project –prefer-dist laravel / laravel nome_do_projeto
+#### comando para a execução da aplicação
+- php artisan serve
 
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+# Autor
+- Gustavo Viana
