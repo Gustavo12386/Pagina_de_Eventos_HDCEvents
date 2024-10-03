@@ -46,4 +46,4 @@ https://paginadeeventoshdcevents-production.up.railway.app/
 - php artisan serve
 
 # Autor
-- Gustavo Viana
+- Gustavo Calderaro
